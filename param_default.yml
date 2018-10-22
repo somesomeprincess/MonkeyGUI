@@ -1,0 +1,18 @@
+deviceid: ''
+runtimes: 200
+logv: -v
+pkg: hippo.com.rodemo
+seed: ''
+anr: ''
+throttle: 1000
+monkeyscript: ''
+self: '--pct-touch 30'
+blacklist: ''
+writelist: ''
+bwlisfile: ''
+crashgoon: 0
+anrgoon: 0
+securgoon: 0
+savelogcat: 0
+seperateerr: 0
+savecompu: 0
