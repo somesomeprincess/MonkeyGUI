@@ -1,4 +1,3 @@
-{anr: '', anrgoon: 0, blacklist: '', bwlisfile: 'D:\learn\MonkeyDesktop\monkeylog\write.txt',
-  crashgoon: 0, deviceid: -e, logv: -v, monkeyscript: 'D:\learn\MonkeyDesktop\monkeylog\monscr.txt',
-  pkg: hippo.com.rodemo, runtimes: '10', savecompu: 0, savelogcat: 0, securgoon: 0,
-  seed: '2', self: '', seperateerr: 0, throttle: -1, writelist: ''}
+{anr: '', anrgoon: 1, blacklist: '', bwlisfile: '', crashgoon: 1, deviceid: '', logv: -v,
+  monkeyscript: '', pkg: '', runtimes: '200000', savecompu: 0, savelogcat: 1, securgoon: 1,
+  seed: '', self: '', seperateerr: 1, throttle: 1000, writelist: ''}

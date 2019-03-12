@@ -1,7 +1,7 @@
 deviceid: ''
 runtimes: 200
 logv: -v
-pkg: hippo.com.rodemo
+pkg: 
 seed: ''
 anr: ''
 throttle: 1000
